@@ -1,0 +1,7 @@
+C:\Users\admin\Desktop\Code\C#\Coursera\Week1\MaxPairProduct\MaxPairProduct\bin\Debug\MaxPairProduct.exe.config
+C:\Users\admin\Desktop\Code\C#\Coursera\Week1\MaxPairProduct\MaxPairProduct\bin\Debug\MaxPairProduct.exe
+C:\Users\admin\Desktop\Code\C#\Coursera\Week1\MaxPairProduct\MaxPairProduct\bin\Debug\MaxPairProduct.pdb
+C:\Users\admin\Desktop\Code\C#\Coursera\Week1\MaxPairProduct\MaxPairProduct\obj\Debug\MaxPairProduct.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\Code\C#\Coursera\Week1\MaxPairProduct\MaxPairProduct\obj\Debug\MaxPairProduct.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\Code\C#\Coursera\Week1\MaxPairProduct\MaxPairProduct\obj\Debug\MaxPairProduct.exe
+C:\Users\admin\Desktop\Code\C#\Coursera\Week1\MaxPairProduct\MaxPairProduct\obj\Debug\MaxPairProduct.pdb
